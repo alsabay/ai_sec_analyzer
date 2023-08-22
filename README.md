@@ -1,4 +1,4 @@
-### Analyzing SEC Documents with AI
+### Analyzing SEC Documents with AI (Work in progress)
 
 
 *******************************************************************************************
